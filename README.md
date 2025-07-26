@@ -80,23 +80,7 @@ This project is built using a modern stack:
 * 🕒 Historical sentiment trend tracking
 * 🏢 Company-specific sentiment filtering
 * 📈 Real-time stock price integration
-* ⚙️ Advanced filters & parameters
-* 📨 Email/notification alerts for key news
 * 📚 Sentiment training data export
-
----
-
-## 🔮 Future Work
-
-To evolve into a comprehensive market intelligence platform, the following extensions are planned:
-
-* 🧾 **Earnings Call Analysis** – Automate sentiment detection from quarterly earnings transcripts
-* 📌 **Ticker-based News Aggregation** – Let users search sentiment by stock symbols (e.g., AAPL, TSLA)
-* 🧠 **LLM Fine-tuning** – Train on domain-specific datasets to improve financial accuracy
-* 🔄 **News Flow vs. Stock Movement Correlation** – Statistically link sentiment trends with price actions
-* 📈 **Predictive Modeling** – Incorporate time-series forecasting for sentiment-driven price prediction
-* 💹 **Portfolio Sentiment Dashboard** – Sentiment summary based on user’s watchlist or holdings
-* 🔐 **Enterprise Integration APIs** – Expose insights via secure APIs for fintech applications
 
 ---
 
